@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: rgb(187, 211, 192);
+    background-color: rgb(218, 218, 218)
 }
 
 .todo-list{
@@ -19,6 +19,7 @@ body{
 
 h1{
     margin-bottom: 20px;
+    color: rgb(218, 218, 218)
 }
 
 .input-field{
@@ -36,7 +37,8 @@ h1{
     font-size: 16px;
     cursor: pointer;
     font-weight: bold;
-    background-color: rgb(150, 150, 150);
+    background-color: rgb(54, 54, 54);
+    color: rgb(218, 218, 218)
 }
 
 .input{
@@ -45,6 +47,7 @@ h1{
     outline: none;
     padding: 10px;
     font-size: 16px;
+    background-color: rgb(218, 218, 218)
 }
 
 .task-list{   
@@ -59,7 +62,7 @@ h1{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: white;
+    background-color: rgb(218, 218, 218)
 }
 
 .task.completed p{
